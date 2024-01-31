@@ -18,3 +18,4 @@ Discover the Latest Asp.net Learning on YouTube.
 |NAME         | BEGINNER | PROJECT  |  COMMENT  | GİTHUB |
 |------------|----------|------------|----------------|----------------|
 [@MilanJovanovicTech](https://www.youtube.com/@MilanJovanovicTech/playlists) | *  | - | Clean Code , Web Apis , Domain-Driven Design , Railway-Oriented Programming,Design Patterns , Clean Architecture & DDD Series ,Entity Framework Core   | [github.com](https://github.com/m-jovanovic)
+[@Netcode-Hub](https://www.youtube.com/@Netcode-Hub/playlists) | *  | Employee Management,ECommerce Application Online Phone Shop App ,NET 8 Blazor  | Blazor for advance , Blazor 8 beginner ,Entity Framework Core 8 Advance , Blazor Beginner   | [github.com](https://github.com/Netcode-Hub)
