@@ -13,7 +13,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@ibrahimdemircik](https://www.youtube.com/@ibrahimdemircik/playlists)| -  | Sosyal Medya Web Sitesi | .NET 8 Web Api ile Sosyal Medya Web Sitesi Projesi | [github.com](https://github.com/IbrahimDmrck)
 
 
- # 1-English
+ # 2-English
 
 |NAME         | BEGINNER | PROJECT  |  COMMENT  | GİTHUB |
 |------------|----------|------------|----------------|----------------|
