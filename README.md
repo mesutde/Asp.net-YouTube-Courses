@@ -21,4 +21,5 @@ Discover the Latest Asp.net Learning on YouTube.
 [@Netcode-Hub](https://www.youtube.com/@Netcode-Hub/playlists) | *  | Employee Management,ECommerce Application Online Phone Shop App ,NET 8 Blazor  | Blazor for advance , Blazor 8 beginner ,Entity Framework Core 8 Advance , Blazor Beginner   | [github.com](https://github.com/Netcode-Hub)
 [@FrankLiuSoftware](https://www.youtube.com/@FrankLiuSoftware/playlists) | *  | -  | SQL Tutorial , Blazor .NET 8  , ASP:NET MVC ,Web API Full Cource (.NET 8 ) ,  Asp.net Core Security   | [github.com](https://github.com/frank-liu-toronto)
 [@PatrickGod](https://www.youtube.com/@PatrickGod/playlists) | *  | Blazor WebAssembly Blog Series , Blazor WebAssembly E-Commerce Series   | C# Tips & Tricks , .NET8 , Blazor shorts  |  [github.com](https://github.com/patrickgod)
+[@JamesMontemagno](https://www.youtube.com/@JamesMontemagno/playlists) | -  | -   | .NET MAUI , .NET Web API , Blazor   | [github.com](https://github.com/jamesmontemagno)
 
