@@ -22,4 +22,5 @@ Discover the Latest Asp.net Learning on YouTube.
 [@FrankLiuSoftware](https://www.youtube.com/@FrankLiuSoftware/playlists) | *  | -  | SQL Tutorial , Blazor .NET 8  , ASP:NET MVC ,Web API Full Cource (.NET 8 ) ,  Asp.net Core Security   | [github.com](https://github.com/frank-liu-toronto)
 [@PatrickGod](https://www.youtube.com/@PatrickGod/playlists) | *  | Blazor WebAssembly Blog Series , Blazor WebAssembly E-Commerce Series   | C# Tips & Tricks , .NET8 , Blazor shorts  |  [github.com](https://github.com/patrickgod)
 [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno/playlists) | -  | -   | .NET MAUI , .NET Web API , Blazor   | [github.com](https://github.com/jamesmontemagno)
+[@abhayprince ](https://www.youtube.com/@abhayprince/playlists)| -  | Hotel Booking Web App Blazor SSR - .Net 8 , E-Commerce Grocery App .Net MAUI , Netflix Clone - .Net MAUI , Realtime Chat App Blazor WASM , Complete App Builds  | .NET MAUI , Blazor   | [github.com](https://github.com/Abhayprince)
 
