@@ -23,4 +23,5 @@ Discover the Latest Asp.net Learning on YouTube.
 [@PatrickGod](https://www.youtube.com/@PatrickGod/playlists) | *  | Blazor WebAssembly Blog Series , Blazor WebAssembly E-Commerce Series   | C# Tips & Tricks , .NET8 , Blazor shorts  |  [github.com](https://github.com/patrickgod)
 [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno/playlists) | -  | -   | .NET MAUI , .NET Web API , Blazor   | [github.com](https://github.com/jamesmontemagno)
 [@abhayprince ](https://www.youtube.com/@abhayprince/playlists)| -  | Hotel Booking Web App Blazor SSR - .Net 8 , E-Commerce Grocery App .Net MAUI , Netflix Clone - .Net MAUI , Realtime Chat App Blazor WASM , Complete App Builds  | .NET MAUI , Blazor   | [github.com](https://github.com/Abhayprince)
+[@Codewrinkles](https://www.youtube.com/@Codewrinkles/playlists) | *  | ASP.NET Core eShop API from scratch (beginners)  |  Blazor .NET 8,Blazor Auth , Microservices with .NET Aspire & Blazor,.NET 8 ,Minimal APIs, Clean Code , Solid , C# Advanced , Asp.net Logging , Clean Web API , EF core    | [github.com](https://github.com/Codewrinkles)
 
