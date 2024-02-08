@@ -12,6 +12,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@TechBuddyTR](https://www.youtube.com/c/TechBuddyTR/playlists)  | *  | Blazor Net 6.0 MSSql EkşiSözlük Clone Projesi  | Docker , Blazor ,Entity Framework , Tasarım Kalıpları , Yazılım IK , Mikroservis , Algoritma | [github.com](https://github.com/TechBuddyTR)
 [@sadik_turan ](https://www.youtube.com/@sadik_turan/playlists) | *  |  -   | ASP.NET Core 5.0 Dersleri , Angular , Javascript , c# programlama dersler, Bootstrap | [github.com](https://github.com/sadikturan)
 [@ibrahimdemircik](https://www.youtube.com/@ibrahimdemircik/playlists)| -  | Sosyal Medya Web Sitesi | .NET 8 Web Api ile Sosyal Medya Web Sitesi Projesi | [github.com](https://github.com/IbrahimDmrck)
+[@Albatu](https://www.youtube.com/@Albatu/playlists) | -  | Blazor ve .Net 7 Web Api Eğitimi ile Satış ve Stok Otomasyonu | Blazor , Radzen  , C#, .Net  ve NHibernate ile Satış ve Stok Otomasyonu ( PostgreSQL) | [github.com](https://github.com/albatu)
 
 
  # 2-English
