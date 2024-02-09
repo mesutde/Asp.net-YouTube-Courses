@@ -23,8 +23,11 @@ Discover the Latest Asp.net Learning on YouTube.
 [@Netcode-Hub](https://www.youtube.com/@Netcode-Hub/playlists) | *  | Employee Management,ECommerce Application Online Phone Shop App ,NET 8 Blazor  | Blazor for advance , Blazor 8 beginner ,Entity Framework Core 8 Advance , Blazor Beginner   | [github.com](https://github.com/Netcode-Hub)
 [@FrankLiuSoftware](https://www.youtube.com/@FrankLiuSoftware/playlists) | *  | -  | SQL Tutorial , Blazor .NET 8  , ASP:NET MVC ,Web API Full Cource (.NET 8 ) ,  Asp.net Core Security   | [github.com](https://github.com/frank-liu-toronto)
 [@PatrickGod](https://www.youtube.com/@PatrickGod/playlists) | *  | Blazor WebAssembly Blog Series , Blazor WebAssembly E-Commerce Series   | C# Tips & Tricks , .NET8 , Blazor shorts  |  [github.com](https://github.com/patrickgod)
-[@JamesMontemagno](https://www.youtube.com/@JamesMontemagno/playlists) | -  | -   | .NET MAUI , .NET Web API , Blazor   | [github.com](https://github.com/jamesmontemagno)
 [@abhayprince ](https://www.youtube.com/@abhayprince/playlists)| -  | Hotel Booking Web App Blazor SSR - .Net 8 , E-Commerce Grocery App .Net MAUI , Netflix Clone - .Net MAUI , Realtime Chat App Blazor WASM , Complete App Builds  | .NET MAUI , Blazor   | [github.com](https://github.com/Abhayprince)
 [@Codewrinkles](https://www.youtube.com/@Codewrinkles/playlists) | *  | ASP.NET Core eShop API from scratch (beginners)  |  Blazor .NET 8,Blazor Auth , Microservices with .NET Aspire & Blazor,.NET 8 ,Minimal APIs, Clean Code , Solid , C# Advanced , Asp.net Logging , Clean Web API , EF core    | [github.com](https://github.com/Codewrinkles)
 [@kis.stupid](https://www.youtube.com/@kis.stupid/playlists) | *  | -  | .NET 8 Blazor , .NET API Error Handling with Result Pattern ,.NET 8 Auth - API & Blazor , .NET 8 , Build BRAND website in C# .NET 8 ,.NET - Testing , Logging , Azure ,.NET Web API , .NET 6 Blazor WASM   |  [gitlab.com](https://gitlab.com/AugusteVN)
+[@JamesMontemagno](https://www.youtube.com/@JamesMontemagno/playlists) | -  | -   | .NET MAUI , .NET Web API , Blazor   | [github.com](https://github.com/jamesmontemagno)
+[@GavinLon](https://www.youtube.com/@GavinLon/playlists) | *  | Blazor Shopping Cart Application | NET 8 videos,C# Interfaces,C# File Handling,C# Operator Overloading,Asynchronous Programming,Events,Delegates, ASP.NET Core MVC Web Application (.NET 5)  | [github.com](https://github.com/GavinLonDigital)
+
+
 
