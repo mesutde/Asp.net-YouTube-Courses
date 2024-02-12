@@ -28,6 +28,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@Codewrinkles](https://www.youtube.com/@Codewrinkles/playlists) | *  | ASP.NET Core eShop API from scratch (beginners)  |  Blazor .NET 8,Blazor Auth , Microservices with .NET Aspire & Blazor,.NET 8 ,Minimal APIs, Clean Code , Solid , C# Advanced , Asp.net Logging , Clean Web API , EF core    | [github.com](https://github.com/Codewrinkles)
 [@kis.stupid](https://www.youtube.com/@kis.stupid/playlists) | *  | -  | .NET 8 Blazor , .NET API Error Handling with Result Pattern ,.NET 8 Auth - API & Blazor , .NET 8 , Build BRAND website in C# .NET 8 ,.NET - Testing , Logging , Azure ,.NET Web API , .NET 6 Blazor WASM   |  [gitlab.com](https://gitlab.com/AugusteVN)
 [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno/playlists) | *  | -   | .NET MAUI , .NET Web API , Blazor   | [github.com](https://github.com/jamesmontemagno)
+[@amantinband ](https://www.youtube.com/@amantinband/playlists)| *  | -   | Beginner-Intermediate Friendly ,  Intermediate-Advanced , Intermediate ,Domain-Driven Design, REST API following CLEAN ARCHITECTURE & DDD Tutorial  | [github.com](https://github.com/amantinband)
 [@GavinLon](https://www.youtube.com/@GavinLon/playlists) | *  | Blazor Shopping Cart Application | NET 8 videos,C# Interfaces,File Handling,Operator Overloading,Asynchronous Programming,Events,Delegates, ASP.NET Core MVC Web Application (.NET 5)  | [github.com](https://github.com/GavinLonDigital)
 
 
