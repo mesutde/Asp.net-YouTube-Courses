@@ -30,6 +30,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@JamesMontemagno](https://www.youtube.com/@JamesMontemagno/playlists) | *  | -   | .NET MAUI , .NET Web API , Blazor   | [github.com](https://github.com/jamesmontemagno)
 [@amantinband ](https://www.youtube.com/@amantinband/playlists)| *  | -   | Beginner-Intermediate Friendly ,  Intermediate-Advanced , Intermediate ,Domain-Driven Design, REST API following CLEAN ARCHITECTURE & DDD Tutorial  | [github.com](https://github.com/amantinband)
 [@GavinLon](https://www.youtube.com/@GavinLon/playlists) | *  | Blazor Shopping Cart Application | NET 8 videos,C# Interfaces,File Handling,Operator Overloading,Asynchronous Programming,Events,Delegates, ASP.NET Core MVC Web Application (.NET 5)  | [github.com](https://github.com/GavinLonDigital)
+[@MacroCoding](https://www.youtube.com/@MacroCoding/playlists)  | -  | * Employees Management System Blazor .NET 8.0 , * E-Recruitment System with ASP.NET MVC Core 7   |  * Employees Management System Using ASPNET Core  MVC, EF Core,SQL,AdminLTE,Perform CRUD #.NET 8.0 Blazor ,  * Build Completed E-Recruitment System with ASP.NET Core MVC  #.NET Core 7   | [github.com](https://github.com/MacroCodeChannel)
 
 
 
