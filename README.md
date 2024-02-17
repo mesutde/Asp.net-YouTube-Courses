@@ -11,9 +11,12 @@ Discover the Latest Asp.net Learning on YouTube.
 [@GencayYildiz](https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z/playlists) | *  | Asp.NET Core 6 + Angular , Mini E-Ticaret Uygulama Serisi | c#,algoritma ,Tsql,SignalR, mvc ,angular başlangıç , proje üzerinde uygulamalı dersler,A’dan Z’ye Nesne Tabanlı Programlama,Asp.NET Core 5.0 Eğitimi, A'dan Z'ye Entity Framework Core Eğitimi  | [github.com](https://github.com/gncyyldz)
 [@TechBuddyTR](https://www.youtube.com/c/TechBuddyTR/playlists)  | *  | Blazor Net 6.0 MSSql EkşiSözlük Clone Projesi  | Docker , Blazor ,Entity Framework , Tasarım Kalıpları , Yazılım IK , Mikroservis , Algoritma | [github.com](https://github.com/TechBuddyTR)
 [@sadik_turan ](https://www.youtube.com/@sadik_turan/playlists) | *  |  -   | ASP.NET Core 5.0 Dersleri , Angular , Javascript , c# programlama dersler, Bootstrap | [github.com](https://github.com/sadikturan)
+[@taner-saydam](https://www.youtube.com/@taner-saydam/playlists) | *  | Clean Architecture ve Angular ile Muhasebe Programı (.NET7,RabbitMQ,UnitTest,Api) , Algoritma , EF,.Net 6.0 ve DevExpress ile Personel | [github.com](https://github.com/TanerSaydam)
 [@ibrahimdemircik](https://www.youtube.com/@ibrahimdemircik/playlists)| -  | Sosyal Medya Web Sitesi | .NET 8 Web Api ile Sosyal Medya Web Sitesi Projesi | [github.com](https://github.com/IbrahimDmrck)
 [@Albatu](https://www.youtube.com/@Albatu/playlists) | -  | Blazor ve .Net 7 Web Api Eğitimi ile Satış ve Stok Otomasyonu | Blazor , Radzen  , C#, .Net  ve NHibernate ile Satış ve Stok Otomasyonu ( PostgreSQL) | [github.com](https://github.com/albatu)
 [@cemkeskinn](https://www.youtube.com/@cemkeskinn/playlists) | -  | .Net Core 7 Web Api Projesi - Onion Architecture & CQRS , .Net Core 6 ile Blog Sitesi Serisi | .Net Core 7 Web Api Projesi - Onion Architecture & CQRS , .Net Core 6 ile Blog Sitesi Serisi  | [github.com](https://github.com/cemkeskin12)
+
+
 
 
  # 2-English
@@ -34,7 +37,7 @@ Discover the Latest Asp.net Learning on YouTube.
 
 
 
-![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/04375000-136f-4c3f-ba51-178498ef1db1)
+![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/76b26fcd-dbbb-4400-b6d5-c94273de4802)
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/ac459a65-1d03-4c82-852c-545121b885f7)
 
 
