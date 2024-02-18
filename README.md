@@ -15,7 +15,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@ibrahimdemircik](https://www.youtube.com/@ibrahimdemircik/playlists)| -  | Sosyal Medya Web Sitesi | .NET 8 Web Api ile Sosyal Medya Web Sitesi Projesi | [github.com](https://github.com/IbrahimDmrck)
 [@Albatu](https://www.youtube.com/@Albatu/playlists) | -  | Blazor ve .Net 7 Web Api Eğitimi ile Satış ve Stok Otomasyonu | Blazor , Radzen  , C#, .Net  ve NHibernate ile Satış ve Stok Otomasyonu ( PostgreSQL) | [github.com](https://github.com/albatu)
 [@cemkeskinn](https://www.youtube.com/@cemkeskinn/playlists) | -  | .Net Core 7 Web Api Projesi - Onion Architecture & CQRS , .Net Core 6 ile Blog Sitesi Serisi | .Net Core 7 Web Api Projesi - Onion Architecture & CQRS , .Net Core 6 ile Blog Sitesi Serisi  | [github.com](https://github.com/cemkeskin12)
-
+[@VeliFiliz](https://www.youtube.com/@VeliFiliz) | -  | Net 8 Web Api ve React ile Uçtan Uca B2b Projesi Geliştirme, .NET 8 ile MVC Projesi | .Net 8 Web Api , MVC  , React JS , React Native , SQL Server , Rabbit MQ , ElasticSearch , Redis , Seq Araçları ile Uçtan Uca Sipariş Süreçleri, Müşteri Yönetimi , Satış ve Ürün Yönetimi Projesi  | [github.com](https://github.com/velifiliz)
 
 
 
