@@ -34,7 +34,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@amantinband ](https://www.youtube.com/@amantinband/playlists)| *  | -   | Beginner-Intermediate Friendly ,  Intermediate-Advanced , Intermediate ,Domain-Driven Design, REST API following CLEAN ARCHITECTURE & DDD Tutorial  | [github.com](https://github.com/amantinband)
 [@GavinLon](https://www.youtube.com/@GavinLon/playlists) | *  | Blazor Shopping Cart Application | NET 8 videos,C# Interfaces,File Handling,Operator Overloading,Asynchronous Programming,Events,Delegates, ASP.NET Core MVC Web Application (.NET 5)  | [github.com](https://github.com/GavinLonDigital)
 [@MacroCoding](https://www.youtube.com/@MacroCoding/playlists)  | -  | * Employees Management System Blazor .NET 8.0 , * E-Recruitment System with ASP.NET MVC Core 7   |  * Employees Management System Using ASPNET Core  MVC, EF Core,SQL,AdminLTE,Perform CRUD #.NET 8.0 Blazor ,  * Build Completed E-Recruitment System with ASP.NET Core MVC  #.NET Core 7   | [github.com](https://github.com/MacroCodeChannel)
-
+[@TeddySmithDev](https://www.youtube.com/@TeddySmithDev/playlists) | *  | React + .NET Core Finance Project   | .ASP.NET Core Identity JWT 2024 ,  ASP.NET Web API .NET 8 Tutorial 2024 | [github.com](https://github.com/teddysmithdev)
 
 
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/c0d2b5f9-8c9a-4ad0-89c8-ba5826f41a34)
