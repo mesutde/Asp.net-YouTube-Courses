@@ -16,6 +16,8 @@ Discover the Latest Asp.net Learning on YouTube.
 [@Albatu](https://www.youtube.com/@Albatu/playlists) | -  | Blazor ve .Net 7 Web Api Eğitimi ile Satış ve Stok Otomasyonu | Blazor , Radzen  , C#, .Net  ve NHibernate ile Satış ve Stok Otomasyonu ( PostgreSQL) | [github.com](https://github.com/albatu)
 [@cemkeskinn](https://www.youtube.com/@cemkeskinn/playlists) | -  | .Net Core 7 Web Api Projesi - Onion Architecture & CQRS , .Net Core 6 ile Blog Sitesi Serisi | .Net Core 7 Web Api Projesi - Onion Architecture & CQRS , .Net Core 6 ile Blog Sitesi Serisi  | [github.com](https://github.com/cemkeskin12)
 [@VeliFiliz](https://www.youtube.com/@VeliFiliz) | -  | Net 8 Web Api ve React ile Uçtan Uca B2b Projesi Geliştirme, .NET 8 ile MVC Projesi | .Net 8 Web Api , MVC  , React JS , React Native , SQL Server , Rabbit MQ , ElasticSearch , Redis , Seq Araçları ile Uçtan Uca Sipariş Süreçleri, Müşteri Yönetimi , Satış ve Ürün Yönetimi Projesi  | [github.com](https://github.com/velifiliz)
+[@gnlta](https://www.youtube.com/@gnlta/playlists) | *  | .NET MAUI ile Muhasebe Uygulaması , .NET MAUI + ASP.NET Core Web API | .NET MAUI , ASP.NET Core Web API   | [github.com](https://github.com/gonultasmf)
+[@erhangndzz](https://www.youtube.com/@erhangndzz/playlists) | -  | Asp.Net Core 7.0 , Entity Framework Core ile MongoDb Villa Projesi | Asp.Net Core 7.0 , MongoDb , N-tier architecture , Entity Framework   |  [github.com](https://github.com/erhangndz)
 
 
 
