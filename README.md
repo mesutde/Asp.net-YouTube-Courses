@@ -39,8 +39,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@TeddySmithDev](https://www.youtube.com/@TeddySmithDev/playlists) | *  | React + .NET Core Finance Project   | .ASP.NET Core Identity JWT 2024 ,  ASP.NET Web API .NET 8 Tutorial 2024 | [github.com](https://github.com/teddysmithdev)
 
 
-![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/33ca3cda-8e68-4891-9e62-fe58249f4207)
-
+![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/326a2910-7c1f-44f5-bd2e-048763ad1ac8)
 
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/a249922e-aebb-41af-a63b-bfe202941095)
 
