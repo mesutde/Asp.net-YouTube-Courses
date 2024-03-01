@@ -18,7 +18,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@VeliFiliz](https://www.youtube.com/@VeliFiliz) | -  | Net 8 Web Api ve React ile Uçtan Uca B2b Projesi Geliştirme, .NET 8 ile MVC Projesi | .Net 8 Web Api , MVC  , React JS , React Native , SQL Server , Rabbit MQ , ElasticSearch , Redis , Seq Araçları ile Uçtan Uca Sipariş Süreçleri, Müşteri Yönetimi , Satış ve Ürün Yönetimi Projesi  | [github.com](https://github.com/velifiliz)
 [@gnlta](https://www.youtube.com/@gnlta/playlists) | *  | .NET MAUI ile Muhasebe Uygulaması , .NET MAUI + ASP.NET Core Web API | .NET MAUI , ASP.NET Core Web API  - Mustafa Gönültaş | [github.com](https://github.com/gonultasmf)
 [@erhangndzz](https://www.youtube.com/@erhangndzz/playlists) | -  | Asp.Net Core 7.0 , Entity Framework Core ile MongoDb Villa Projesi | Asp.Net Core 7.0 , MongoDb , N-tier architecture , Entity Framework   |  [github.com](https://github.com/erhangndz)
-[@mkutlukyildirim](https://www.youtube.com/@mkutlukyildirim/playlists) | *  | - | ASP.NET Core Eğitim Serisi - Mehmet Kutluk Yıldırım |  -
+[@mkutlukyildirim](https://www.youtube.com/@mkutlukyildirim/playlists) | *  | - | ASP.NET Core Eğitim Serisi - [Mehmet Kutluk Yıldırım](https://www.icloud.com/iclouddrive/0c9OXDl-7Z3V5Q_ekB8ZWUxyw#Konu_Baslklar) |  -
 
 
 
