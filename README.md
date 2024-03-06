@@ -39,7 +39,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@MacroCoding](https://www.youtube.com/@MacroCoding/playlists)  | -  | * Employees Management System Blazor .NET 8.0 , * E-Recruitment System with ASP.NET MVC Core 7   |  * Employees Management System Using ASPNET Core  MVC, EF Core,SQL,AdminLTE,Perform CRUD #.NET 8.0 Blazor ,  * Build Completed E-Recruitment System with ASP.NET Core MVC  #.NET Core 7   | [github.com](https://github.com/MacroCodeChannel)
 [@TeddySmithDev](https://www.youtube.com/@TeddySmithDev/playlists) | *  | React + .NET Core Finance Project   | .ASP.NET Core Identity JWT 2024 ,  ASP.NET Web API .NET 8 Tutorial 2024 | [github.com](https://github.com/teddysmithdev)
 [Codevidyalaya](https://www.youtube.com/@codevidyalaya/playlists) | *  | Clean Architecture (.NET 6,AutoMapper,CQRS,Loging,Unit Test)    | Clean Architecture (.NET 6) , ASP.NET Core API,ASP.Net Core MVC   | [github.com](https://github.com/codevidyalaya)
-[@CodeMaze](https://www.youtube.com/@CodeMaze/playlists) | -  | -   | .NET (CORE) Videos , C# Videos   | -
+[@CodeMaze](https://www.youtube.com/@CodeMaze/playlists) | * | -   | .NET (CORE) Videos , C# Videos   | -
 
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/c43e4bff-ecfc-4a50-90f3-5c9b360e0e1d)
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/a249922e-aebb-41af-a63b-bfe202941095)
