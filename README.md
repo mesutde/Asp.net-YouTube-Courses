@@ -42,7 +42,8 @@ Discover the Latest Asp.net Learning on YouTube.
 [@CodeMaze](https://www.youtube.com/@CodeMaze/playlists) | * | -   | .NET (CORE) Videos , C# Videos   | -
 
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/c43e4bff-ecfc-4a50-90f3-5c9b360e0e1d)
-![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/a249922e-aebb-41af-a63b-bfe202941095)
+![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/1dcea93b-050d-4e21-919c-cf9f3e513318)
+
 
 
 
