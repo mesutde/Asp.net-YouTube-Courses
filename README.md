@@ -19,7 +19,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@gnlta](https://www.youtube.com/@gnlta/playlists) | *  | .NET MAUI ile Muhasebe Uygulaması , .NET MAUI + ASP.NET Core Web API | .NET MAUI , ASP.NET Core Web API  - Mustafa Gönültaş | [github.com](https://github.com/gonultasmf)
 [@erhangndzz](https://www.youtube.com/@erhangndzz/playlists) | -  | Asp.Net Core 7.0 , Entity Framework Core ile MongoDb Villa Projesi | Asp.Net Core 7.0 , MongoDb , N-tier architecture , Entity Framework   |  [github.com](https://github.com/erhangndz)
 [@mkutlukyildirim](https://www.youtube.com/@mkutlukyildirim/playlists) | *  | - | ASP.NET Core Eğitim Serisi - [Mehmet Kutluk Yıldırım](https://www.icloud.com/iclouddrive/0c9OXDl-7Z3V5Q_ekB8ZWUxyw#Konu_Baslklar) |  -
-
+[@yigitozbek](https://www.youtube.com/@yigitozbek/playlists) | *  | - | Entity Framework , .NET , Temel Seviyeden İleri Seviyeye C#  |  [github.com](https://github.com/yigitozbek)
 
 
  # 2-English
@@ -38,7 +38,8 @@ Discover the Latest Asp.net Learning on YouTube.
 [@GavinLon](https://www.youtube.com/@GavinLon/playlists) | *  | Blazor Shopping Cart Application | NET 8 videos,C# Interfaces,File Handling,Operator Overloading,Asynchronous Programming,Events,Delegates, ASP.NET Core MVC Web Application (.NET 5)  | [github.com](https://github.com/GavinLonDigital)
 [@MacroCoding](https://www.youtube.com/@MacroCoding/playlists)  | -  | * Employees Management System Blazor .NET 8.0 , * E-Recruitment System with ASP.NET MVC Core 7   |  * Employees Management System Using ASPNET Core  MVC, EF Core,SQL,AdminLTE,Perform CRUD #.NET 8.0 Blazor ,  * Build Completed E-Recruitment System with ASP.NET Core MVC  #.NET Core 7   | [github.com](https://github.com/MacroCodeChannel)
 [@TeddySmithDev](https://www.youtube.com/@TeddySmithDev/playlists) | *  | React + .NET Core Finance Project   | .ASP.NET Core Identity JWT 2024 ,  ASP.NET Web API .NET 8 Tutorial 2024 | [github.com](https://github.com/teddysmithdev)
-
+[Codevidyalaya](https://www.youtube.com/@codevidyalaya/playlists) | *  | Clean Architecture (.NET 6,AutoMapper,CQRS,Loging,Unit Test)    | Clean Architecture (.NET 6) , ASP.NET Core API,ASP.Net Core MVC   | [github.com](https://github.com/codevidyalaya)
+[@CodeMaze](https://www.youtube.com/@CodeMaze/playlists) | -  | -   | .NET (CORE) Videos , C# Videos   | -
 
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/c43e4bff-ecfc-4a50-90f3-5c9b360e0e1d)
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/a249922e-aebb-41af-a63b-bfe202941095)
