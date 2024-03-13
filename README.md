@@ -22,6 +22,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@yigitozbek](https://www.youtube.com/@yigitozbek/playlists) | *  | - | Entity Framework , .NET , Temel Seviyeden İleri Seviyeye C#  |  [github.com](https://github.com/yigitozbek)
 
 
+
  # 2-English
 
 |NAME         | BEGINNER | PROJECT  |  COMMENT  | GİTHUB |
@@ -40,6 +41,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@TeddySmithDev](https://www.youtube.com/@TeddySmithDev/playlists) | *  | React + .NET Core Finance Project   | .ASP.NET Core Identity JWT 2024 ,  ASP.NET Web API .NET 8 Tutorial 2024 | [github.com](https://github.com/teddysmithdev)
 [Codevidyalaya](https://www.youtube.com/@codevidyalaya/playlists) | *  | Clean Architecture (.NET 6,AutoMapper,CQRS,Loging,Unit Test)    | Clean Architecture (.NET 6) , ASP.NET Core API,ASP.Net Core MVC   | [github.com](https://github.com/codevidyalaya)
 [@CodeMaze](https://www.youtube.com/@CodeMaze/playlists) | * | -   | .NET (CORE) Videos , C# Videos   | -
+[@LearnWithIndrjeet](https://www.youtube.com/@LearnWithIndrjeet/playlists) | -  |Building a Todo Management System in .Net 8 | Building a Todo Management System in .Net 8  | -
 
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/c43e4bff-ecfc-4a50-90f3-5c9b360e0e1d)
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/1dcea93b-050d-4e21-919c-cf9f3e513318)
