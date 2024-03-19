@@ -20,7 +20,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@erhangndzz](https://www.youtube.com/@erhangndzz/playlists) | -  | Asp.Net Core 7.0 , Entity Framework Core ile MongoDb Villa Projesi | Asp.Net Core 7.0 , MongoDb , N-tier architecture , Entity Framework   |  [github.com](https://github.com/erhangndz)
 [@mkutlukyildirim](https://www.youtube.com/@mkutlukyildirim/playlists) | *  | - | ASP.NET Core Eğitim Serisi - [Mehmet Kutluk Yıldırım](https://www.icloud.com/iclouddrive/0c9OXDl-7Z3V5Q_ekB8ZWUxyw#Konu_Baslklar) |  -
 [@yigitozbek](https://www.youtube.com/@yigitozbek/playlists) | *  | - | Entity Framework , .NET , Temel Seviyeden İleri Seviyeye C#  |  [github.com](https://github.com/yigitozbek)
-
+[@softbreak](https://www.youtube.com/@softbreak/playlists) | *  | .Net ile Eticaret Projesi (Ntier) | .Net Core , NTier Architecture (Çok Katmanlı Mimari),Entity Framework,C# Nesne Yönelimli Programlama (OOP)  |  [github.com](https://github.com/softbreak)
 
 
  # 2-English
