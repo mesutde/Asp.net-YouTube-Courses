@@ -41,6 +41,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@TeddySmithDev](https://www.youtube.com/@TeddySmithDev/playlists) | *  | React + .NET Core Finance Project   | .ASP.NET Core Identity JWT 2024 ,  ASP.NET Web API .NET 8 Tutorial 2024 | [github.com](https://github.com/teddysmithdev)
 [Codevidyalaya](https://www.youtube.com/@codevidyalaya/playlists) | *  | Clean Architecture (.NET 6,AutoMapper,CQRS,Loging,Unit Test)    | Clean Architecture (.NET 6) , ASP.NET Core API,ASP.Net Core MVC   | [github.com](https://github.com/codevidyalaya)
 [@CodeMaze](https://www.youtube.com/@CodeMaze/playlists) | * | -   | .NET (CORE) Videos , C# Videos   | -
+[@ChrisDyck](https://www.youtube.com/@ChrisDyck/playlists) | * | -   | OpenAPI Documentation , Identity Services with Generic User Repository ,  .NET 8   | [github.com](https://github.com/chrisdyck)
 [@LearnWithIndrjeet](https://www.youtube.com/@LearnWithIndrjeet/playlists) | -  |Building a Todo Management System in .Net 8 | Building a Todo Management System in .Net 8  | -
 [@DevEmpower ](https://www.youtube.com/@DevEmpower/playlists)| -  | Clean Architecture use PostgreSQL  | Clean Architecture use PostgreSQL , LINQ Zero to Hero , Fullstack JWT Authentication and Role-Based Authorization | ASP.NET 7 Web API | REACT JS  | github.com](https://github.com/mohammad-taheri1)
 
