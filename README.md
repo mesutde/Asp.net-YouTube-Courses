@@ -21,6 +21,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@mkutlukyildirim](https://www.youtube.com/@mkutlukyildirim/playlists) | *  | - | ASP.NET Core Eğitim Serisi - [Mehmet Kutluk Yıldırım](https://www.icloud.com/iclouddrive/0c9OXDl-7Z3V5Q_ekB8ZWUxyw#Konu_Baslklar) |  -
 [@yigitozbek](https://www.youtube.com/@yigitozbek/playlists) | *  | - | Entity Framework , .NET , Temel Seviyeden İleri Seviyeye C#  |  [github.com](https://github.com/yigitozbek)
 [@softbreak](https://www.youtube.com/@softbreak/playlists) | *  | .Net ile Eticaret Projesi (Ntier) | .Net Core , NTier Architecture (Çok Katmanlı Mimari),Entity Framework,C# Nesne Yönelimli Programlama (OOP)  |  [github.com](https://github.com/softbreak)
+[@FatihBaytar](https://www.youtube.com/@FatihBaytar/playlists) | *  | Next.js/.NET 8/ReactNative Chat App | .NET 8 WebAPI, SignalR, NextJs(mui) ve ReactNative,MSSQL,Docker |  [github.com](https://github.com/matanist)
 
 
  # 2-English
