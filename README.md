@@ -45,6 +45,7 @@ Discover the Latest Asp.net Learning on YouTube.
 [@ChrisDyck](https://www.youtube.com/@ChrisDyck/playlists) | * | -   | OpenAPI Documentation , Identity Services with Generic User Repository ,  .NET 8   | [github.com](https://github.com/chrisdyck)
 [@LearnWithIndrjeet](https://www.youtube.com/@LearnWithIndrjeet/playlists) | -  |Building a Todo Management System in .Net 8 | Building a Todo Management System in .Net 8  | -
 [@DevEmpower ](https://www.youtube.com/@DevEmpower/playlists)| -  | Clean Architecture use PostgreSQL  | Clean Architecture use PostgreSQL , LINQ Zero to Hero , Fullstack JWT Authentication and Role-Based Authorization | ASP.NET 7 Web API | REACT JS  | github.com](https://github.com/mohammad-taheri1)
+[@CoderFoundry](https://www.youtube.com/@CoderFoundry/playlists) | *  |- | Blazor , Wasm   |  [CoderFoundry](https://github.com/CoderFoundry)
 
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/c43e4bff-ecfc-4a50-90f3-5c9b360e0e1d)
 ![image](https://github.com/mesutde/Asp.net-YouTube-Courses/assets/16664425/1dcea93b-050d-4e21-919c-cf9f3e513318)
